@@ -1,0 +1,6 @@
+requirements.txt
+__init__.py
+__pycache__/
+.pytest_cache/
+venv/
+geckodriver.log
